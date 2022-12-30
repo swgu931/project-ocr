@@ -1,4 +1,9 @@
-# project-ocr 
+# Proejct OCR
+- Capture by Camera,To be stitched by ?, Read by OCR then Judge to True or False or Not Decided.
+- Camera Spec ?
+- Stitching engine ?
+- OCR Engine ?
+
 ---
 
 # OpenCV-Python Study documentation!
