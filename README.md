@@ -1,11 +1,12 @@
 # project-ocr 
-
+---
 
 # OpenCV-Python Study documentation!
 - https://opencv-python.readthedocs.io/en/latest/
 
 
 # Amazon Textract
+
 : Automatically extract handwriting, text or data from any document using machine learning
 - https://aws.amazon.com/textract/
 
@@ -13,7 +14,7 @@
 
 
 # Goolge Cloud 
-: 
+
 - https://cloud.google.com/vision/docs/ocr#vision_text_detection-gcloud
 - https://cloud.google.com/vision/docs/ocr#vision_set_endpoint-python
 - https://cloud.google.com/document-ai/docs/overview
