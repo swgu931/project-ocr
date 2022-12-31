@@ -23,10 +23,17 @@
 - How Amazon Textract Works
  : https://docs.aws.amazon.com/textract/latest/dg/how-it-works.html
 
-- Getting Started with Amazon Textract
+## Getting Started with Amazon Textract
  : https://docs.aws.amazon.com/textract/latest/dg/getting-started.html
 
+- Boto3 documentation
+ : https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
 
+### Analyzing Document Text with Amazon Textract
+ : https://docs.aws.amazon.com/textract/latest/dg/analyzing-document-text.html
+ 
+ 
+ 
 
 # Goolge Cloud 
 
