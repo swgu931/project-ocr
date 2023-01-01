@@ -39,8 +39,20 @@
 
 - https://cloud.google.com/vision/docs/ocr#vision_text_detection-gcloud
 - https://cloud.google.com/vision/docs/ocr#vision_set_endpoint-python
+
+## Document AI overview
 - https://cloud.google.com/document-ai/docs/overview
 
+![image](https://user-images.githubusercontent.com/28507261/210165808-bc405544-a6dc-4cc0-8a02-40c8d8b207e0.png)
+
+![image](https://user-images.githubusercontent.com/28507261/210165885-45d98f63-f626-455b-824d-be1ae3a6b041.png)
+
+### Full processor and detail list
+- Document OCR (Optical Character Recognition)
+ : https://cloud.google.com/document-ai/docs/processors-list#processor_doc-ocr
+
+## Google Cloud Python Client
+  ttps://github.com/googleapis/google-cloud-python#google-cloud-python-client
 
 
 # Tesseract OCR
