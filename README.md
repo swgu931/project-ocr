@@ -51,6 +51,11 @@
 - Document OCR (Optical Character Recognition)
  : https://cloud.google.com/document-ai/docs/processors-list#processor_doc-ocr
 
+- python-docs-samples/vision/snippets/detect/detect.py 
+ : https://github.com/GoogleCloudPlatform/python-docs-samples/blob/HEAD/vision/snippets/detect/detect.py
+ 
+- python-docs-samples/vision/snippets/document_text 
+ : https://github.com/GoogleCloudPlatform/python-docs-samples/tree/main/vision/snippets/document_text
 ## Google Cloud Python Client
   ttps://github.com/googleapis/google-cloud-python#google-cloud-python-client
 
