@@ -42,7 +42,7 @@
 
 ## Optical Character Recognition (OCR) Tutorial
 
-- https://cloud.google.com/functions/docs/tutorials/ocr?hl=en_US&_ga=2.78125204.-1438976646.1604563588
+- https://cloud.google.com/functions/docs/tutorials/ocr
 
 ## Document AI overview
 - https://cloud.google.com/document-ai/docs/overview
